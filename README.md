@@ -1,1 +1,1 @@
-extracts and converts bytemaps from apple notes export
+extracts and converts byte stream from apple notes export
